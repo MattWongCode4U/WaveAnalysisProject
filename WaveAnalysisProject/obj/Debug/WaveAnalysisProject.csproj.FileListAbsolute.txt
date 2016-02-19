@@ -1,0 +1,11 @@
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\bin\Debug\WaveAnalysisProject.exe.config
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\bin\Debug\WaveAnalysisProject.exe
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\bin\Debug\WaveAnalysisProject.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.exe
+c:\users\matthew\documents\visual studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.Form2.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\WaveAnalysisProject\WaveAnalysisProject\obj\Debug\WaveAnalysisProject.Help.resources
